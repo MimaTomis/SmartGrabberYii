@@ -1,0 +1,34 @@
+{
+    "name": "mima/yii2-smart-grabber",
+    "description": "Yii2 component for mima/smart-grabber library",
+    "require": {
+        "php": ">=5.5",
+        "mima/smart-grabber": "^1.0.0"
+    },
+    "require-dev": {
+        "phpunit/phpunit": "^4.8.0",
+        "yiisoft/yii2": "~2.0"
+    },
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Dmitriy Konev",
+            "email": "dnkonev@yandex.ru"
+        }
+    ],
+    "autoload": {
+        "psr-4": {
+            "SmartGrabber\\": "src/SmartGrabber"
+        }
+    },
+    "repositories": [
+        {
+            "type": "git",
+            "url": "ssh://mima@78.46.185.132/home/mima/git/SmartGrabber.git"
+        },
+        {
+            "type": "git",
+            "url": "git@github.com:MimaTomis/DOMNavigator.git"
+        }
+    ]
+}
