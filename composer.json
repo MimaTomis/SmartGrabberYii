@@ -24,7 +24,7 @@
     "repositories": [
         {
             "type": "git",
-            "url": "ssh://mima@78.46.185.132/home/mima/git/SmartGrabber.git"
+            "url": "git@github.com:MimaTomis/SmartGrabber.git"
         },
         {
             "type": "git",
