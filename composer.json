@@ -24,11 +24,7 @@
     "repositories": [
         {
             "type": "git",
-            "url": "git@github.com:MimaTomis/SmartGrabber.git"
-        },
-        {
-            "type": "git",
-            "url": "git@github.com:MimaTomis/DOMNavigator.git"
+            "url": "git@github.com:MimaTomis/smart-grabber.git"
         }
     ]
 }
